@@ -164,6 +164,16 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Product_category__c</fullName>
+        <externalId>false</externalId>
+        <label>Product_category</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>QuantityUnitOfMeasure</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
